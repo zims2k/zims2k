@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zims2k, a family guy that has a assion for coding
+- 👋 Hi, I’m @zims2k, a family guy that has a passion for coding
 - 👀 I’m interested in coding Java and Spring Boot backend, especially Spring Security
 - 🌱 I’m currently learning how to get better in programming in general
 - 💞️ I’m looking to collaborate on various projects... Let's see where the path leads me...
